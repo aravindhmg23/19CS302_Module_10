@@ -1,4 +1,3 @@
-
 # EX 47 C function to insert a node in a linked list.
 ## DATE:
 ## AIM:
